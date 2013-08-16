@@ -1,0 +1,18 @@
+
+development:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: portaledsis_development
+  pool: 5
+  username: portaledsis
+  password: portaledsis
+
+production:
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: portaledsis_production
+  pool: 5
+  username: portaledsis
+  password: portaledsis
